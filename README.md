@@ -1,6 +1,6 @@
 # cursos_gratuitos
 
-## Com certificado 
+### Com certificado 
 
 + Fundação Bradesco: 
 https://www.ev.org.br/cursos
@@ -12,7 +12,7 @@ https://digitalinnovation.one/sign-up?ref=T7OVCN3238
 https://app.rocketseat.com.br/ 
 
 
-## Sem Certificado 
+### Sem Certificado 
 
 + Tornese um programador: 
 http://www.torneseumprogramador.com.br
